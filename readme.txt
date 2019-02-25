@@ -1,1 +1,1 @@
-git tast
+git is a version control system
